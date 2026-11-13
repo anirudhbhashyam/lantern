@@ -2,6 +2,8 @@
 
 We implement a CPU tensor library in Goose.
 
+![](mnist-diffusion.gif)
+
 ## Run it
 
 This was made on macos and was tested using the bundled Goose v2026.4 compiler on macOS arm64.
