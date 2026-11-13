@@ -1,0 +1,2 @@
+c_sources = ["kernels.c"];
+c_flags_cc = ["-O3"];

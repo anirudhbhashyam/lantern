@@ -1,0 +1,7 @@
+.build/
+data/
+artifacts/frames.gray
+artifacts/*.gdm
+__pycache__/
+goose-*
+artifacts
